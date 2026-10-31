@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![GitHub release](https://img.shields.io/github/v/release/shipblueprint/agent-dev-cycle)
+
 # Dev Cycle — Spec-Driven Development Pipeline
 
 **Multi-agent development cycle for OpenCode.** Enforces **Spec → Plan → Execute → Archive** discipline. No blind coding — every change starts with a spec and ends with an archive.
