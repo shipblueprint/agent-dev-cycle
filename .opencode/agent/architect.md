@@ -34,8 +34,6 @@ If the intent is ambiguous, ask: *"Is this a new feature (full cycle), a bug fix
 
 ## Pipeline stages
 
-Pipeline definition: `.opencode/pipelines/dev-cycle/OPENCODE.md`
-
 ### Stage 1 — PROPOSE
 1. Understand user intent. Ask clarifying questions if vague.
 2. Check if `openspec` CLI is available. If yes, run `openspec propose "<description>"`.

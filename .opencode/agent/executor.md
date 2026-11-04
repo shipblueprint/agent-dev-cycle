@@ -1,7 +1,7 @@
 ---
 name: executor
 mode: subagent
-model: opencode/north-mini-code-free
+model: opencode/deepseek-v4.1-flash-free
 description: Full feature implementation agent. Tech Lead mode. Takes architecture plan + task list → production-ready code with TDD. Self-verifies and updates task status.
 permission:
   task: allow
