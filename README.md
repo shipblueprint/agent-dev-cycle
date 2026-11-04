@@ -106,3 +106,7 @@ System prompt here.
 ```
 
 The filename becomes the agent ID. `mode` is `primary`, `subagent`, or `all`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
